@@ -16,3 +16,7 @@ class Rubynovice
 
 
 end
+
+Rubynovice.new.ex1_1
+Rubynovice.new.ex1_2
+Rubynovice.new.ex1_3
